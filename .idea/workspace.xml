@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7972fa61-7d0d-48f5-b093-fb2094f6ef8f" name="Default Changelist" comment="" />
+    <list default="true" id="7972fa61-7d0d-48f5-b093-fb2094f6ef8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/vec-class.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vector-3d-class.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/vec3.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/vec3.test.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VdGSYiUrGyBWCWibcOpT1Ahd2b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
@@ -95,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.test" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.prepare" />
-        <item itemvalue="npm.test" />
         <item itemvalue="Jest.Simple 3d Vectors" />
       </list>
     </recent_temporary>
@@ -113,6 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577575558666</updated>
       <workItem from="1577575560353" duration="13216000" />
+      <workItem from="1577817756330" duration="1287000" />
+      <workItem from="1577838079319" duration="3630000" />
     </task>
     <servers />
   </component>
@@ -122,6 +137,19 @@
       <list>
         <option value="$PROJECT_DIR$/node_modules" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>

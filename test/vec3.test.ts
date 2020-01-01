@@ -1,4 +1,4 @@
-import v from '../src';
+import * as v from '../src/Vec3';
 
 describe('3d Vectors', () => {
   it('Vector3', () => {

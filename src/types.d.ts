@@ -10,3 +10,5 @@ export interface Vector3 extends Vector2 {
 export interface Vector4 extends Vector3 {
   w: number;
 }
+
+export type AnyVector = Vector2 | Vector3 | Vector4;
