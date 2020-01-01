@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7972fa61-7d0d-48f5-b093-fb2094f6ef8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/vec-class.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vector-3d-class.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/vec3.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/vec3.test.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +122,7 @@
       <updated>1577575558666</updated>
       <workItem from="1577575560353" duration="13216000" />
       <workItem from="1577817756330" duration="1287000" />
-      <workItem from="1577838079319" duration="3630000" />
+      <workItem from="1577838079319" duration="4223000" />
     </task>
     <servers />
   </component>
